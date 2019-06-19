@@ -1,0 +1,6 @@
+= Binary Converter
+
+This is a simple programm that converts a given positve number and radix into other number systems. + 
+Valid input are numbers up to 2147483647 in decimal and the bases 2 (binary), 8 (octal), 10 (decimal) and 16 (hexadecimal). + 
+Inputs are made with a simple graphical user interface based on java swing.
+
